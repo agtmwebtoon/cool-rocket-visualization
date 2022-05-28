@@ -8,6 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Wiring diagram
 
+<img width="724" alt="KakaoTalk_Photo_2022-05-28-20-51-58" src="https://user-images.githubusercontent.com/50310635/170824324-354a7bbe-d028-42cc-97d3-3e5e2df2d8c8.png">
+
 
 ### Code
 
